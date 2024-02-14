@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe-Flask
 
 Developed a web-based version of the classic Tic-Tac-Toe game using Python, Flask, HTML, and Bootstrap. Implemented functionality for players to play the game online through a user-friendly interface.
 
